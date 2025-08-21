@@ -1,0 +1,300 @@
+.img1 {
+    width: 200px;
+
+}
+
+.poisk {
+    width: 560px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 45px;
+    padding-left: 10px;
+}
+
+.profile {
+    width: 25px;
+    margin-left: 50px
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+nav{
+    width: 130px;
+}
+.narxlari{
+    width: 200px;
+    height: 30px;
+    border-radius: 7px;
+    padding-left: 10px;
+    font-size: 14px;
+}
+
+h3{
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+
+.like {
+    width: 22px;
+    margin-left: 18px;
+}
+
+.savat {
+    width: 28px;
+    margin-left: 18px;
+}
+
+.katalog {
+    width: 130px;
+    height: 35px;
+    margin-left: 60px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(122, 149, 185);
+    color: #fff;
+
+}
+
+.href {
+    color: rgb(99, 99, 99);
+}
+
+.header1 {
+    display: flex;
+    gap: 30px;
+    margin-left: 80px;
+}
+
+.box {
+    width: 190px;
+
+    margin-left: 80px;
+}
+
+.abu {
+    color: rgb(77, 74, 74);
+}
+
+.katalog:active {
+    background-color: rgb(83, 83, 236);
+}
+
+.mahsulot1 {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.mahsulot {
+    width: 250px;
+
+    height: 500px;
+
+}
+
+b {
+    color: blueviolet;
+}
+
+.orqaga {
+    color: #434242;
+}
+
+.orqaga:hover {
+    color: blue;
+}
+
+.b2 {
+    color: #979696;
+}
+
+.narx {
+    background-color: yellow;
+    width: 134px;
+    height: 20px;
+    text-align: center;
+    padding-top: 3px;
+    border-radius: 6px;
+}
+
+.sotibolish2 {
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.narx2 {
+    background-color: yellow;
+    width: 127px;
+    height: 20px;
+    text-align: center;
+    padding-top: 3px;
+    border-radius: 6px
+}
+
+.sotibolish3 {
+    margin-top: 16px;
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 30px;
+    border-radius: 13px;
+}
+
+.sotibolish4 {
+    background-color: blueviolet;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 30px;
+    border-radius: 13px;
+    margin-bottom: 13px;
+}
+
+.href:hover {
+    color: black;
+}
+
+.sotibolish2:active {
+    background-color: rgb(41, 41, 222);
+}
+
+.sotibolish3:active {
+    background-color: rgb(41, 41, 222);
+}
+
+.sotibolish4:active {
+    background-color: rgb(41, 41, 222);
+}
+
+
+.buhafta {
+    font-size: 20px;
+    color: #6b6a6a;
+}
+
+.buhafta:hover {
+    color: #000;
+}
+
+/* .pepsi {
+    border-radius: 20px;
+    margin-left: 100px;
+    height: 400px;
+    /* width: 1300px; 
+} */
+
+.section1 {
+    /* width: 200px; */
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+
+
+}
+
+.label1 {
+    margin-left: 10px;
+}
+
+.yana {
+    color: #434242;
+    margin-left: 22px;
+}
+
+hr {
+    width: 50px;
+    margin-left: 20px;
+}
+
+.yana:hover {
+    color: rgb(71, 5, 252);
+}
+
+.boshlan:hover {
+    color: #000;
+
+}
+.turkumlari{
+    color: #4e4d4d;
+    font-weight: 550;
+
+}
+
+
+.main2 {
+    /* margin-left: 100px; */
+    /* height: 1200px; */
+    /* width: 1200px; */
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 1200px;
+}
+ 
+.tovarlar {
+    height: 500px;
+    width: 200px;
+}
+.kafolat2{
+    color: #464545;
+}
+nav{
+   
+    height: 30px;
+    display: flex;
+    align-items: center;
+
+}
+nav:hover{
+    background-color: #e1dede;
+    border-radius: 5px;
+}
+.bir{
+    width: 100px;
+}
+.uch{
+    width: 233px;
+}
+.ikki{
+    width: 227px;
+}
+.tort{
+    width: 170px;
+}
+.besh{
+    width: 110px;
+}
+.olti{
+    width: 120px;
+}
+.yetti{
+    width: 119px;
+}
+.sakkiz{
+    width: 190px;
+}
+.toqqiz{
+    width: 225px;
+}
+.on{
+    width: 210px;
+}
+.onbir{
+    width: 120px;
+}
+.onikki{
+    width: 176px;
+}
